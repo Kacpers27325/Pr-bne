@@ -17,5 +17,5 @@ static double GetAverage(int [] numbers)
 }
 
 int[] tablica = { 1, 2, 3, 4, 5 };
-/*double average = GetAverage(tablica);
-Console.WriteLine(average);*/
+double average = GetAverage(tablica);
+Console.WriteLine(average);
