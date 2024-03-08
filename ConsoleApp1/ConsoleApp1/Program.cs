@@ -16,6 +16,6 @@ static double GetAverage(int [] numbers)
     return (double)sum / numbers.Length;
 }
 
-/*int[] tablica = { 1, 2, 3, 4, 5 };
-double average = GetAverage(tablica);
+int[] tablica = { 1, 2, 3, 4, 5 };
+/*double average = GetAverage(tablica);
 Console.WriteLine(average);*/
